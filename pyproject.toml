@@ -1,0 +1,12 @@
+[project]
+name = "snippets"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "jupyterlab>=4.3.6",
+    "matplotlib>=3.10.1",
+    "numpy>=2.2.4",
+    "polars>=1.26.0",
+]
